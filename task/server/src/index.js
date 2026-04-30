@@ -11,7 +11,7 @@ import dashboardRoutes from "./routes/dashboard.js";
 import { errorHandler, notFound } from "./middleware/error.js";
 
 const app = express();
-const port = process.env.PORT || 5000;
+const port = process.env.PORT;
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
