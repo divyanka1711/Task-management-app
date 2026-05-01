@@ -60,4 +60,4 @@ Deployed on Railway:
 ---
 
 ## 🎥 Demo Video
-(Add your video link here)
+video link (https://youtu.be/TYrGrO6WOsk)
